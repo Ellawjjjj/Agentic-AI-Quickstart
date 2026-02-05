@@ -15,7 +15,7 @@ This repository is a **quickstart knowledge base** for Agentic AI. The goal is t
 
 # Part I — Frameworks ✅
 Below is a curated list of frameworks/platforms that are useful for getting started quickly.
-![Agentic AI framework comparison matrix](https://github.com/Ellawjjjj/Agentic-AI-Quickstart-From-LLM-to-Working-Agents/blob/main/framework-comparison.png)
+![Agentic AI framework comparison matrix](https://github.com/Ellawjjjj/Agentic-AI-Quickstart-From-LLM-to-Working-Agents/blob/main/Agentic%20Workflow.png)
 ## Framework Comparison 
 ![Agentic AI framework comparison matrix](https://github.com/Ellawjjjj/Agentic-AI-Quickstart-From-LLM-to-Working-Agents/blob/main/framework-comparison.png)
 
