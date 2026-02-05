@@ -78,5 +78,5 @@ Below is a curated list of frameworks/platforms that are useful for getting star
 
 ## Framework Comparison (at a glance)
 
-![Agentic AI framework comparison matrix](assets/framework-comparison.png)
+![Agentic AI framework comparison matrix](framework-comparison.png)
 
