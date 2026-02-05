@@ -78,6 +78,18 @@ Below is a curated list of frameworks/platforms that are useful for getting star
 
 ## Framework Comparison (at a glance)
 
-![Agentic AI framework comparison matrix](https://github.com/Ellawjjjj/Agentic-AI-Quickstart-From-LLM-to-Working-Agents/blob/main/framework-comparison.png))
+![Agentic AI framework comparison matrix](https://github.com/Ellawjjjj/Agentic-AI-Quickstart-From-LLM-to-Working-Agents/blob/main/framework-comparison.png)
+
+---
+# Part II — Paper link
+---
+
+## Paper Lists (Curated Repos)
+
+| Paper List / Repo Name | Link |
+|---|---|
+| Awesome Agentic Reasoning | [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning) |
+| AI Agent Papers | [GitHub](https://github.com/masamasa59/ai-agent-papers) |
+| Awesome Agent Papers | [GitHub](https://github.com/luo-junyu/Awesome-Agent-Papers) |
 
 
