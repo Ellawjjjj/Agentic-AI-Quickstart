@@ -1,14 +1,16 @@
 # Agentic-AI-Quickstart-From-LLM-to-Working-Agents
-## 0. What is this repo?
-This repository is a **quickstart knowledge base** for Agentic AI. The goal is to help you:
-- Understand the core ideas (planning, memory, tool-use, safety, evaluation, cost/latency)
-- Choose the right frameworks/tools (without getting lost in the ecosystem)
-- Build a minimal working agent (MVP), then gradually make it more reliable and ready to produce
 <p align="center">
   <img src="https://github.com/Ellawjjjj/Agentic-AI-Quickstart-From-LLM-to-Working-Agents/blob/main/Agentic%20Workflow.png?raw=1"
        alt="Agentic AI framework comparison matrix"
        width="650" />
 </p>
+
+## 0. What is this repo?
+This repository is a **quickstart knowledge base** for Agentic AI. The goal is to help you:
+- Understand the core ideas (planning, memory, tool-use, safety, evaluation, cost/latency)
+- Choose the right frameworks/tools (without getting lost in the ecosystem)
+- Build a minimal working agent (MVP), then gradually make it more reliable and ready to produce
+
 
 ## Suggested learning path
 **Beginner (1–2 hours)**
